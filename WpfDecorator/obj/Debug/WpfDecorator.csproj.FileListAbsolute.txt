@@ -1,0 +1,14 @@
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\bin\Debug\WpfÖdev.exe.config
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\bin\Debug\WpfÖdev.exe
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\bin\Debug\WpfÖdev.pdb
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfDecorator.csproj.AssemblyReference.cache
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\MainWindow.baml
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\MainWindow.g.cs
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\App.g.cs
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfÖdev.g.resources
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfDecorator.csproj.GenerateResource.cache
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfÖdev.exe
+C:\Users\Büşra Nur Aktaş\Desktop\WpfDecorator\obj\Debug\WpfÖdev.pdb

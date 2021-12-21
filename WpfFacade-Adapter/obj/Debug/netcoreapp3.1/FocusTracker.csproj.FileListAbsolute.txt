@@ -1,0 +1,15 @@
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.exe
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.deps.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.runtimeconfig.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.runtimeconfig.dev.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.AssemblyInfoInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.AssemblyInfo.cs
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.csproj.CoreCompileInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.genruntimeconfig.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.csproj.AssemblyReference.cache

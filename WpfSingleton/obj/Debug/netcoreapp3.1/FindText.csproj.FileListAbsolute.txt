@@ -1,0 +1,80 @@
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.exe
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.deps.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.dev.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\bin\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.AssemblyReference.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample1.baml
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample2.baml
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample3.baml
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.lref
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.g.resources
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.Properties.Resources.resources
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.GenerateResource.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfoInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfo.cs
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.CoreCompileInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\FindText\FindText\obj\Debug\netcoreapp3.1\FindText.genruntimeconfig.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.exe
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.deps.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.dev.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\bin\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.AssemblyReference.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample1.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample2.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample3.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.lref
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.g.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.Properties.Resources.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.GenerateResource.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfoInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfo.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\FindText\obj\Debug\netcoreapp3.1\FindText.genruntimeconfig.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.exe
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.deps.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.runtimeconfig.dev.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\bin\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.AssemblyReference.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample1.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample2.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\content\flowdocumentsample3.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText_MarkupCompile.lref
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.g.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.Properties.Resources.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.GenerateResource.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfoInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.AssemblyInfo.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\OOP1\FindText\obj\Debug\netcoreapp3.1\FindText.genruntimeconfig.cache

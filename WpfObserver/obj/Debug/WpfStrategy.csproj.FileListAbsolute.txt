@@ -1,0 +1,14 @@
+C:\Users\ENES\Desktop\WpfStrateji\bin\Debug\WpfÖdev.exe.config
+C:\Users\ENES\Desktop\WpfStrateji\bin\Debug\WpfÖdev.exe
+C:\Users\ENES\Desktop\WpfStrateji\bin\Debug\WpfÖdev.pdb
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfStrategy.csprojAssemblyReference.cache
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\MainWindow.baml
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\MainWindow.g.cs
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\App.g.cs
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfÖdev.g.resources
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfStrategy.csproj.GenerateResource.cache
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfStrategy.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfÖdev.exe
+C:\Users\ENES\Desktop\WpfStrateji\obj\Debug\WpfÖdev.pdb

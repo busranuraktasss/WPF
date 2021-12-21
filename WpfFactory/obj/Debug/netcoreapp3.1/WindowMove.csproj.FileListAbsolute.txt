@@ -1,0 +1,37 @@
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.exe
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.deps.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.runtimeconfig.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.runtimeconfig.dev.json
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.AssemblyReference.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.dll.config
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.g.resources
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.Properties.Resources.resources
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.GenerateResource.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.AssemblyInfoInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.AssemblyInfo.cs
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.CoreCompileInputs.cache
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.dll
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.pdb
+C:\Users\LenovA\OneDrive\Masaüstü\WPF-Samples-master\Accessibility\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.genruntimeconfig.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.exe
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.deps.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.runtimeconfig.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.runtimeconfig.dev.json
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\bin\Debug\netcoreapp3.1\WindowMove.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.AssemblyReference.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.dll.config
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.g.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.Properties.Resources.resources
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.GenerateResource.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.AssemblyInfoInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.AssemblyInfo.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.dll
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.pdb
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\WindowMove\obj\Debug\netcoreapp3.1\WindowMove.genruntimeconfig.cache

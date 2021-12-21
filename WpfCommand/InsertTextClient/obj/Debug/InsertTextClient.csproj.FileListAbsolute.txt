@@ -1,0 +1,5 @@
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\Accessibility\InsertText\InsertTextClient\obj\Debug\InsertTextClient.csproj.AssemblyReference.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\Accessibility\InsertText\InsertTextClient\obj\Debug\MainWindow.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\Accessibility\InsertText\InsertTextClient\obj\Debug\App.g.cs
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\Accessibility\InsertText\InsertTextClient\obj\Debug\InsertTextClient_MarkupCompile.cache
+C:\Users\Büşra Nur Aktaş\OneDrive\Masaüstü\Accessibility\InsertText\InsertTextClient\obj\Debug\InsertTextClient_MarkupCompile.lref

@@ -1,0 +1,14 @@
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\bin\Debug\WpfÖdev.exe.config
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\bin\Debug\WpfÖdev.exe
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\bin\Debug\WpfÖdev.pdb
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.csprojAssemblyReference.cache
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\MainWindow.baml
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\MainWindow.g.cs
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\App.g.cs
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.g.resources
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.csproj.GenerateResource.cache
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.exe
+C:\Users\ENES\Desktop\odevvvvv\WpfDecorator\obj\Debug\WpfÖdev.pdb
